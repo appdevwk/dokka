@@ -1,0 +1,4 @@
+digraph "org.jetbrains.dokka:it-maven:jar:1.0-SNAPSHOT" { 
+	"org.jetbrains.dokka:it-maven:jar:1.0-SNAPSHOT" -> "org.jetbrains.kotlin:kotlin-stdlib:jar:2.0.20:compile" ; 
+	"org.jetbrains.kotlin:kotlin-stdlib:jar:2.0.20:compile" -> "org.jetbrains:annotations:jar:13.0:compile" ; 
+ } 
