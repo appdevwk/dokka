@@ -1,0 +1,4 @@
+digraph "org.jetbrains.kotlin.examples:kotlin-maven-example:jar:1.0-SNAPSHOT" { 
+	"org.jetbrains.kotlin.examples:kotlin-maven-example:jar:1.0-SNAPSHOT" -> "org.jetbrains.kotlin:kotlin-stdlib:jar:2.1.0:compile" ; 
+	"org.jetbrains.kotlin:kotlin-stdlib:jar:2.1.0:compile" -> "org.jetbrains:annotations:jar:13.0:compile" ; 
+ } 
